@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyCharm
+.idea/
+
+# Generated CSV
+examples/output.csv
+examples/rejected.csv
+examples/out_*.csv
+
+# Temporary files
+*.tmp
