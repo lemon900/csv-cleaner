@@ -1,0 +1,13 @@
+sku,product,price,quantity,category,status
+P001,Notebook,12.5,10,Stationery,active
+P002,Pen,2.5,100,Stationery,active
+P003,Mouse,-8,5,Electronics,active
+P004,Keyboard,120,abc,Electronics,active
+P001,Notebook,12.5,10,Stationery,active
+P005,Monitor,899,2,Electronics,active
+P006,USB Cable,,15,Electronics,active
+P007,Headset,80,3,Electronics,active
+P003,Mouse,28,5,Electronics,active
+P008,Marker,4.5,501,Stationery,inactive
+P009,Charger,49.9,6,Electronics,unknown
+P010,Tablet,1200,4,Electronics,active

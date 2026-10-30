@@ -7,10 +7,11 @@ test_invalid_encoding_returns_3 (test_clean.CleanTests.test_invalid_encoding_ret
 test_invalid_row_does_not_block_valid_duplicate_key (test_clean.CleanTests.test_invalid_row_does_not_block_valid_duplicate_key) ... ok
 test_missing_input_returns_3_and_preserves_output (test_clean.CleanTests.test_missing_input_returns_3_and_preserves_output) ... ok
 test_path_collision_returns_2 (test_clean.CleanTests.test_path_collision_returns_2) ... ok
+test_six_column_csv (test_clean.CleanTests.test_six_column_csv) ... ok
 test_three_encodings (test_clean.CleanTests.test_three_encodings) ... ok
 test_unknown_field_returns_2 (test_clean.CleanTests.test_unknown_field_returns_2) ... ok
 
 ----------------------------------------------------------------------
-Ran 11 tests in 1.333s
+Ran 12 tests in 1.503s
 
 OK
